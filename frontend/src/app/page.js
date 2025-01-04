@@ -39,6 +39,12 @@ export default function Home() {
         >
           View Messages Demo
         </Link>
+        <Link
+          href="/privacy"
+          className="block w-full bg-gray-100 hover:bg-gray-200 text-gray-700 border border-gray-300 rounded-lg px-4 py-3 text-center font-medium"
+        >
+          Privacy Policy
+        </Link>
       </div>
     </div>
   );
